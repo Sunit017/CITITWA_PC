@@ -11,7 +11,7 @@
     <groupId>com.maveric</groupId>
     <artifactId>project-charter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>project-charter</name>
+    <name>Customer Session Portal</name>
     <description>CITI Bank Project Charter</description>
     <properties>
         <java.version>17</java.version>
